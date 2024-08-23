@@ -1,14 +1,4 @@
-![Screenshot 2024-08-23 082740](https://github.com/user-attachments/assets/5eb40b9e-5dbb-4797-ac1f-98eab5cc5484)
-![Screenshot 2024-08-23 082755](https://github.com/user-attachments/assets/4d5fd326-e29b-4cb7-8870-e1a2b2345d08)
-![Screenshot 2024-08-23 083103](https://github.com/user-attachments/assets/e42c08d3-1e9a-4dd8-b379-4f7e1d49bfea)
-![Screenshot 2024-08-23 083500](https://github.com/user-attachments/assets/7f227635-1f9e-4861-821c-bc5ff4583ab5)
-![Screenshot 2024-08-23 084339](https://github.com/user-attachments/assets/512f655c-ebeb-4ea5-983e-ca77c231ef88)
-![Screenshot 2024-08-23 084707](https://github.com/user-attachments/assets/fb6ee64e-65d5-4bdf-8ce4-15dd6800b661)
-![Screenshot 2024-08-23 084731](https://github.com/user-attachments/assets/1c912df0-e981-4969-a2be-2a084253560b)
-![Screenshot 2024-08-23 084928](https://github.com/user-attachments/assets/2f4e7fc2-e77d-4545-b2e0-5975ec10a9a4)
-![Screenshot 2024-08-23 084951](https://github.com/user-attachments/assets/f1a6bff3-7416-4908-8a48-6f8a0f72808b)
-![Screenshot 2024-08-23 085018](https://github.com/user-attachments/assets/b2a753b4-a7c1-4bce-983c-62c5b971ea8f)
-![Screenshot 2024-08-23 085204](https://github.com/user-attachments/assets/2caee8bd-0ee5-4ace-b656-b3a1aa082c21)
+
 ---
 
 ## UFW Configuration for Kali Linux
@@ -158,3 +148,16 @@ sudo ufw status verbose
 ```
 
 For additional information, refer to the [Kali Linux Official Documentation](https://www.kali.org/docs/).
+
+
+![Screenshot 2024-08-23 082740](https://github.com/user-attachments/assets/5eb40b9e-5dbb-4797-ac1f-98eab5cc5484)
+![Screenshot 2024-08-23 082755](https://github.com/user-attachments/assets/4d5fd326-e29b-4cb7-8870-e1a2b2345d08)
+![Screenshot 2024-08-23 083103](https://github.com/user-attachments/assets/e42c08d3-1e9a-4dd8-b379-4f7e1d49bfea)
+![Screenshot 2024-08-23 083500](https://github.com/user-attachments/assets/7f227635-1f9e-4861-821c-bc5ff4583ab5)
+![Screenshot 2024-08-23 084339](https://github.com/user-attachments/assets/512f655c-ebeb-4ea5-983e-ca77c231ef88)
+![Screenshot 2024-08-23 084707](https://github.com/user-attachments/assets/fb6ee64e-65d5-4bdf-8ce4-15dd6800b661)
+![Screenshot 2024-08-23 084731](https://github.com/user-attachments/assets/1c912df0-e981-4969-a2be-2a084253560b)
+![Screenshot 2024-08-23 084928](https://github.com/user-attachments/assets/2f4e7fc2-e77d-4545-b2e0-5975ec10a9a4)
+![Screenshot 2024-08-23 084951](https://github.com/user-attachments/assets/f1a6bff3-7416-4908-8a48-6f8a0f72808b)
+![Screenshot 2024-08-23 085018](https://github.com/user-attachments/assets/b2a753b4-a7c1-4bce-983c-62c5b971ea8f)
+![Screenshot 2024-08-23 085204](https://github.com/user-attachments/assets/2caee8bd-0ee5-4ace-b656-b3a1aa082c21)
